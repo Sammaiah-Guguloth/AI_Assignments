@@ -1,6 +1,5 @@
 # 🤖 AI Assignments - RGUKT
 
-Welcome to my Artificial Intelligence (AI) assignments repository.  
 This repository contains solutions to various AI problems as part of coursework at **RGUKT Basar**.
 
 ## 👨‍💻 About me
